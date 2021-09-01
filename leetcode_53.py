@@ -3,6 +3,9 @@ Solution to Leetcode problem 53
  
 Maximum Subarray
 Return maximum sum of contiguous subarray
+
+Approach:
+Kadane's algorithm
 """
 from typing import List
 
